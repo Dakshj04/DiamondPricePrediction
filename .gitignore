@@ -171,11 +171,10 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Remove the file from Git tracking (but keep it locally)
-git rm --cached artifacts/model.pkl
+artifacts/model.pkl
+# Install Git LFS (if not already installed)
 
-# Commit this change
-git commit -m "Remove large model file from tracking"
 
-# Now try pushing again
-git push
+# Add the .gitattributes file
+git add .gitattributes
+
