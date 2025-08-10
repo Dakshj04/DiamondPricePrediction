@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## ‍💻 Author
 
-**Daksh** - [dakshcdr@gmail.com](mailto:dakshcdr@gmail.com)
+**Daksh** - [0408jaindaksh@gmail.com](mailto:0408jaindaksh@gmail.com)
 
 ---
 
